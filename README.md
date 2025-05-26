@@ -10,7 +10,7 @@ Te damos la bienvenida a XXXXXXX, un software totalmente amigable para la optimi
 * Una interfaz personalizable, amigable e intuitiva: Podrás personalizar el software acorde a tu branding, para darle un sentido de pertenencia único.
 * Paneles administrativos: Tendrás a disposición toda la información acerca de tu negocio de una manera clara y legible, permitiendote tomar decisiones en base a la información presente.
 * Turnero: Podrás gestionar los turnos de una manera óptima y eficiente.
-* Sección personal: Presentate y hazle saber al cliente quién eres.
+* Sección personal: Presentate y hazle saber al cliente quién eres a través de menús informativos.
 * Generación de informes vía PDF.
 * Gestión de Stock.
 * ¡Y un montón de cosas más!
