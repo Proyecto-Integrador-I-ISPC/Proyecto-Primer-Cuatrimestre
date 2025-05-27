@@ -23,7 +23,7 @@ Te damos la bienvenida a XXXXXXX, un software totalmente amigable para la optimi
 Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 1) Mauricio Pucheta: Mis habilidades con respecto a la programación se basan en el manejo de tecnologías Frontend (HTML, CSS y Javascript (ES6+)) como Backend (Node.js (npm - npx), Express), así como librerias (Dotenv, Cors, JWT, Bcrypt y Tailwind). No obstante, intento desarrollar arquitecturas escalables (Arquitectura en capas en Node.js) en conjunto con patrones de diseños (CommonJS y ES Modules en Node.js) 
 2) Abigail Picone: Soy la Scrum Master del equipo. Mi aporte principal al proyecto es coordinar al grupo, facilitar la organización del trabajo y asegurar que se cumplan los tiempos y objetivos propuestos. Como Scrum Master, aporto habilidades de comunicación, organización, liderazgo colaborativo y resolución de conflictos. También tengo conocimientos básicos de programación, lo cual me permite comprender mejor las tareas técnicas y acompañar al equipo de manera efectiva.
-3) 
+3) Astrid A. Luppi: Soy diseñadora industrial y puedo aportar mis conocimientos de gráfica, marketing, generación de contenido y edición de video.
 4) 
 5) 
 6) 
