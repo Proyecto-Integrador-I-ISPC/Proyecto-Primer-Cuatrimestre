@@ -14,5 +14,4 @@ COMANDOS ÚTILES ADICIONALES
 
 git log                         # Muestra el historial de commits
 git reset <archivo>             # Saca un archivo del área de preparación (si se hizo un git add por error)
-git merge <rama>                # Une otra rama con la actual 
 
