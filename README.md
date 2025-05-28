@@ -16,6 +16,20 @@ Te damos la bienvenida a XXXXXXX, un software totalmente amigable para la optimi
 * ¡Y un montón de cosas más!
 
 # Usuarios / Clientes Potenciales:
+Los posibles clientes/usuarios:
+
+Individuos ocupados o profesionales.
+Ejecutivos o trabajadores con horarios intensos de trabajo que delegan las tareas domésticas.
+Personas solteras sin tiempo.
+Trabajadores remotos o freelance.
+
+Familias con doble ingreso ya que los ayudaría a equilibrar la vida personal con la vida laboral y doméstica.
+Padres, madres primerizos con alta demanda de tiempo en el cuidado de los hijos.
+Adultos mayores con movilidad reducida que necesitan ayuda en tareas físicas.
+
+Propietarios de vehículos o casas específicas con necesidades particulares:
+Uber,remis,transporte escolar, transporte de personas privado.
+Arrendatarios, casas de alquiler, comunidades o vecindarios, vecinos organizados que buscan descuentos por contratación colectiva.
 
 # Historias de clientes / usuarios iniciales:
 
@@ -28,6 +42,7 @@ Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 3) Astrid A. Luppi: Soy diseñadora industrial y puedo aportar mis conocimientos de gráfica, marketing, generación de contenido y edición de video.
 
 4) Irina Pirles: Tengo conocimientos en C++, Python, HTML, CSS, Git y GitHub, entre otros. Me destaco por mi rápida resolución de problemas en código, así como por mi responsabilidad y capacidad de adaptación. Además, disfruto del trabajo en equipo y tengo experiencia colaborando en proyectos donde la eficiencia y la creatividad son clave. Siempre estoy en busca de nuevos desafíos que me permitan seguir aprendiendo y mejorando.
-5) 
+
+5) Marcela Villanueva: Mi aporte al equipo de trabajo es  de ideas para el desarrollo comercial y técnico del proyecto que deseamos llevar a cabo. Estoy dando mis primeros pasos en la programación, a través de Phyton y en bases de datos con SQL. También puedo aportar estrategias de comunicción acertiva en el equipo y en posibles vínculos con el cliente fianl, resolución de problemas aplicando metodologías que sean oporunidades de mejora. 
 
 6) 
