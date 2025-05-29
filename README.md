@@ -1,9 +1,12 @@
+
+=======
 # Título del proyecto
 
 # Presentación:
 ¡Hola! ¿Qué tal?
-¿Cuántas veces te pasó de no tener una organización con tus tareas diarias de lavado? Pues eso... ¡Se acabó!
-Te damos la bienvenida a XXXXXXX, un software totalmente amigable para la optimización, organización y puesta en marcha de tus lavados.
+¿Cuántas veces dejaste pasar el lavado del auto por falta de tiempo o desorganización? ¡Eso ya no va a pasar más!
+Te presentamos XXXXXXX, una aplicación pensada para vos: fácil de usar, rápida y práctica. Reservá tu turno, elegí el tipo de lavado y nosotros vamos a donde estés.
+¡Tu auto limpio, sin filas, sin demoras y sin moverte de tu casa!
 
 # Funcionalidades principales
 ¿Qué ofrecemos?
