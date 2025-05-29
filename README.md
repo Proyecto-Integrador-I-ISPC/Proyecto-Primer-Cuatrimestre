@@ -28,6 +28,7 @@ Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 3) Astrid A. Luppi: Soy diseñadora industrial y puedo aportar mis conocimientos de gráfica, marketing, generación de contenido y edición de video.
 
 4) Irina Pirles: Tengo conocimientos en C++, Python, HTML, CSS, Git y GitHub, entre otros. Me destaco por mi rápida resolución de problemas en código, así como por mi responsabilidad y capacidad de adaptación. Además, disfruto del trabajo en equipo y tengo experiencia colaborando en proyectos donde la eficiencia y la creatividad son clave. Siempre estoy en busca de nuevos desafíos que me permitan seguir aprendiendo y mejorando.
-5) 
 
-6) 
+5) Marcela Villanueva: Mi aporte al equipo de trabajo es de ideas para el desarrollo comercial y técnico del proyecto que deseamos llevar a cabo. Estoy dando mis primeros pasos en la programación, a través de Phyton y en bases de datos con SQL. También puedo aportar estrategias de comunicción acertiva en el equipo y en posibles vínculos con el cliente fianl, resolución de problemas aplicando metodologías que sean oporunidades de mejora.
+
+6) Emilse González: Soy profesora de Lengua y Literatura e Inglés, apasionada por el orden, el detalle y la atención personalizada. Aunque no tengo formación previa en programación, estoy dando mis primeros pasos con mucho entusiasmo. Pretendo documentar este proyecto y organizarlo con claridad, aprovechando mis competencias comunicativas y mi compromiso con la calidad. Algunas de mis habilidades son: excelente comunicación con los/as clientes, responsabilidad y puntualidad, cuidado minucioso en cada detalle del proceso de los pedidos, capacidad de organización y gestión autónoma y creatividad para resolver problemas cotidianos.
