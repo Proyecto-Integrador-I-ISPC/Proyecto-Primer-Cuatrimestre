@@ -33,6 +33,12 @@ Arrendatarios, casas de alquiler, comunidades o vecindarios, vecinos organizados
 
 # Historias de clientes / usuarios iniciales:
 
+1.Como persona con muy poco tiempo libre, quiero solicitar un lavado de auto desde el celular, para no perder tiempo y aprovechar el servicio a domicilio sin salir de casa.
+
+2.Como usuaria nueva, quiero ver claramente los precios, tipos de lavado y horarios disponibles. Así, poder elegir el servicio que mejor se adapte a mi necesidad.
+
+3.Como persona sin conocimientos técnicos, quiero una página web o aplicación digital simples y fáciles de usar, para solicitar el servicio sin complicaciones desde cualquier lugar.
+
 # Integrantes del equipo:
 Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 1) Mauricio Pucheta: Mis habilidades con respecto a la programación se basan en el manejo de tecnologías Frontend (HTML, CSS y Javascript (ES6+)) como Backend (Node.js (npm - npx), Express), así como librerias (Dotenv, Cors, JWT, Bcrypt y Tailwind). No obstante, intento desarrollar arquitecturas escalables (Arquitectura en capas en Node.js) en conjunto con patrones de diseños (CommonJS y ES Modules en Node.js) 
@@ -43,6 +49,6 @@ Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 
 4) Irina Pirles: Tengo conocimientos en C++, Python, HTML, CSS, Git y GitHub, entre otros. Me destaco por mi rápida resolución de problemas en código, así como por mi responsabilidad y capacidad de adaptación. Además, disfruto del trabajo en equipo y tengo experiencia colaborando en proyectos donde la eficiencia y la creatividad son clave. Siempre estoy en busca de nuevos desafíos que me permitan seguir aprendiendo y mejorando.
 
-5) Marcela Villanueva: Mi aporte al equipo de trabajo es  de ideas para el desarrollo comercial y técnico del proyecto que deseamos llevar a cabo. Estoy dando mis primeros pasos en la programación, a través de Phyton y en bases de datos con SQL. También puedo aportar estrategias de comunicción acertiva en el equipo y en posibles vínculos con el cliente fianl, resolución de problemas aplicando metodologías que sean oporunidades de mejora. 
+5) Marcela Villanueva: Mi aporte al equipo de trabajo es  de ideas para el desarrollo comercial y técnico del proyecto que deseamos llevar a cabo. Estoy dando mis primeros pasos en la programación, a través de Phyton y en bases de datos con SQL. También puedo aportar estrategias de comunicación asertiva en el equipo y en posibles vínculos con el cliente final, resolución de problemas aplicando metodologías que sean oporunidades de mejora. 
 
-6) 
+6) Emilse González: Soy profesora de Lengua y Literatura e Inglés, apasionada por el orden, el detalle y la atención personalizada. Aunque no tengo formación previa en programación, estoy dando mis primeros pasos con mucho entusiasmo. Pretendo documentar este proyecto y organizarlo con claridad, aprovechando mis competencias comunicativas y mi compromiso con la calidad. Algunas de mis habilidades son: excelente comunicación con los/as clientes, responsabilidad y puntualidad, cuidado minucioso en cada detalle del proceso de los pedidos, capacidad de organización y gestión autónoma y creatividad para resolver problemas cotidianos.
