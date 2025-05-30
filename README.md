@@ -21,7 +21,11 @@ Te presentamos XXXXXXX, una aplicación pensada para vos: fácil de usar, rápid
 # Usuarios / Clientes Potenciales:
 
 # Historias de clientes / usuarios iniciales:
+1. Como persona con muy poco tiempo libre, quiero solicitar un lavado de auto desde el celular, para no perder tiempo y aprovechar el servicio a domicilio sin salir de casa.
 
+2. Como usuaria nueva, quiero ver claramente los precios, tipos de lavado y horarios disponibles. Así, poder elegir el servicio que mejor se adapte a mi necesidad.
+
+3. Como persona sin conocimientos técnicos, quiero una página web o aplicación digital simples y fáciles de usar, para solicitar el servicio sin complicaciones desde cualquier lugar.
 # Integrantes del equipo:
 Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 1) Mauricio Pucheta: Mis habilidades con respecto a la programación se basan en el manejo de tecnologías Frontend (HTML, CSS y Javascript (ES6+)) como Backend (Node.js (npm - npx), Express), así como librerias (Dotenv, Cors, JWT, Bcrypt y Tailwind). No obstante, intento desarrollar arquitecturas escalables (Arquitectura en capas en Node.js) en conjunto con patrones de diseños (CommonJS y ES Modules en Node.js) 
