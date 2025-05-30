@@ -2,8 +2,9 @@
 
 # Presentación:
 ¡Hola! ¿Qué tal?
-¿Cuántas veces te pasó de no tener una organización con tus tareas diarias de lavado? Pues eso... ¡Se acabó!
-Te damos la bienvenida a XXXXXXX, un software totalmente amigable para la optimización, organización y puesta en marcha de tus lavados.
+¿Cuántas veces dejaste pasar el lavado del auto por falta de tiempo o desorganización? ¡Eso ya no va a pasar más!
+Te presentamos XXXXXXX, una aplicación pensada para vos: fácil de usar, rápida y práctica. Reservá tu turno, elegí el tipo de lavado y nosotros vamos a donde estés.
+¡Tu auto limpio, sin filas, sin demoras y sin moverte de tu casa!
 
 # Funcionalidades principales
 ¿Qué ofrecemos?
@@ -16,20 +17,25 @@ Te damos la bienvenida a XXXXXXX, un software totalmente amigable para la optimi
 * ¡Y un montón de cosas más!
 
 # Usuarios / Clientes Potenciales:
-Los posibles clientes/usuarios:
-
-Individuos ocupados o profesionales.
+1. Individuos ocupados o profesionales.
 Ejecutivos o trabajadores con horarios intensos de trabajo que delegan las tareas domésticas.
 Personas solteras sin tiempo.
 Trabajadores remotos o freelance.
 
-Familias con doble ingreso ya que los ayudaría a equilibrar la vida personal con la vida laboral y doméstica.
+2. Familias con doble ingreso ya que los ayudaría a equilibrar la vida personal con la vida laboral y doméstica.
 Padres, madres primerizos con alta demanda de tiempo en el cuidado de los hijos.
 Adultos mayores con movilidad reducida que necesitan ayuda en tareas físicas.
 
-Propietarios de vehículos o casas específicas con necesidades particulares:
+3. Propietarios de vehículos o casas específicas con necesidades particulares:
 Uber,remis,transporte escolar, transporte de personas privado.
 Arrendatarios, casas de alquiler, comunidades o vecindarios, vecinos organizados que buscan descuentos por contratación colectiva.
+
+● Individuos ocupados o profesionales. Ejecutivos o trabajadores con horarios intensos de trabajo que delegan las tareas domésticas. Personas solteras sin tiempo. Trabajadores remotos o freelance.
+
+● Familias con doble ingreso ya que los ayudaría a equilibrar la vida personal con la vida laboral y doméstica. Padres, madres primerizos con alta demanda de tiempo en el cuidado de los hijos. Adultos mayores con movilidad reducida que necesitan ayuda en tareas físicas.
+
+● Propietarios de vehículos o casas específicas con necesidades particulares: Uber,remis,transporte escolar, transporte de personas privado. Arrendatarios, casas de alquiler, comunidades o vecindarios, vecinos organizados que buscan descuentos por contratación colectiva.
+
 
 # Historias de clientes / usuarios iniciales:
 
@@ -41,6 +47,7 @@ Arrendatarios, casas de alquiler, comunidades o vecindarios, vecinos organizados
 
 # Integrantes del equipo:
 Actualmente, nuestro equipo está conformado por los siguientes integrantes:
+
 1) Mauricio Pucheta: Mis habilidades con respecto a la programación se basan en el manejo de tecnologías Frontend (HTML, CSS y Javascript (ES6+)) como Backend (Node.js (npm - npx), Express), así como librerias (Dotenv, Cors, JWT, Bcrypt y Tailwind). No obstante, intento desarrollar arquitecturas escalables (Arquitectura en capas en Node.js) en conjunto con patrones de diseños (CommonJS y ES Modules en Node.js) 
 
 2) Abigail Picone: Soy la Scrum Master del equipo. Mi aporte principal al proyecto es coordinar al grupo, facilitar la organización del trabajo y asegurar que se cumplan los tiempos y objetivos propuestos. Como Scrum Master, aporto habilidades de comunicación, organización, liderazgo colaborativo y resolución de conflictos. También tengo conocimientos básicos de programación, lo cual me permite comprender mejor las tareas técnicas y acompañar al equipo de manera efectiva.
