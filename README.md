@@ -47,7 +47,7 @@ Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 
 2) Abigail Picone: Soy la Scrum Master del equipo. Mi aporte principal al proyecto es coordinar al grupo, facilitar la organización del trabajo y asegurar que se cumplan los tiempos y objetivos propuestos. Como Scrum Master, aporto habilidades de comunicación, organización, liderazgo colaborativo y resolución de conflictos. También tengo conocimientos básicos de programación, lo cual me permite comprender mejor las tareas técnicas y acompañar al equipo de manera efectiva.
 
-3) Astrid A. Luppi: Soy diseñadora industrial y puedo aportar mis conocimientos de gráfica, marketing, generación de contenido y edición de video.
+3) Astrid A. Luppi: Soy diseñadora industrial y puedo aportar mis conocimientos de diseñadora, gráfica, marketing, gestión de proyectos, generación de contenido y edición de video. Profesionalmente me he desarrollado tanto bajo relación de dependencia como de manera independiente, lo que me ha permitido adquirir habilidades y conocimientos para tener una visión holística del mercado y de los diferentes desafíos que pueden presentarse en los equipos de trabajo. Con ésta tecnicatura, estoy adquiriendo mis primeros conocimientos en programación y base de datos.
 
 4) Irina Pirles: Tengo conocimientos en C++, Python, HTML, CSS, Git y GitHub, entre otros. Me destaco por mi rápida resolución de problemas en código, así como por mi responsabilidad y capacidad de adaptación. Además, disfruto del trabajo en equipo y tengo experiencia colaborando en proyectos donde la eficiencia y la creatividad son clave. Siempre estoy en busca de nuevos desafíos que me permitan seguir aprendiendo y mejorando.
 
