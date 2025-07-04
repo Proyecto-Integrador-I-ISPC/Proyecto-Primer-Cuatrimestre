@@ -57,5 +57,3 @@ Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 
 03/07/25 Se crea rama Conflicto-ejemplo-DevCba
 Se crea conflicto de prueba.
-Chek.
-
