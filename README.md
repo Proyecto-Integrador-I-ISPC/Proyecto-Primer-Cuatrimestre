@@ -55,4 +55,7 @@ Actualmente, nuestro equipo está conformado por los siguientes integrantes:
 
 6) Emilse González: Soy profesora de Lengua y Literatura e Inglés, apasionada por el orden, el detalle y la atención personalizada. Aunque no tengo formación previa en programación, estoy dando mis primeros pasos con mucho entusiasmo. Pretendo documentar este proyecto y organizarlo con claridad, aprovechando mis competencias comunicativas y mi compromiso con la calidad. Algunas de mis habilidades son: excelente comunicación con los/as clientes, responsabilidad y puntualidad, cuidado minucioso en cada detalle del proceso de los pedidos, capacidad de organización y gestión autónoma y creatividad para resolver problemas cotidianos.
 
-HOLA
+03/07/25 Se crea rama Conflicto-ejemplo-DevCba
+Se crea conflicto de prueba.
+Chek.
+
